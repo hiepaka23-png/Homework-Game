@@ -1,0 +1,6 @@
+{
+  "name": "Earth Defender: Meteor Invasion",
+  "description": "An action-packed 16:9 PC top-down space shooter with 5 levels, boss fights, power-ups, energy shields, and procedural canvas graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
